@@ -142,7 +142,7 @@ Connection closed by foreign host.
 
 For example:
 ```
-mailx -s "Mail from James challenge" newtondkim@ 
+mailx -s "Mail from James challenge" <email_address> 
 
 Hello,
 Test email from Robin's James Apache challenge
