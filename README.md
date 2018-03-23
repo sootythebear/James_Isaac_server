@@ -64,7 +64,7 @@ cd /usr/local/share/james-server/bin
 ./james start
 ```
 
- * Test connect via telnet to confirm active:
+ * Test connection via telnet to confirm James Server is active:
 ```telnet localhost 25```
 
  * Review log files, as required.
